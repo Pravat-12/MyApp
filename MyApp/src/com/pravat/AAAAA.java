@@ -1,7 +1,7 @@
 package com.pravat;
 
-public class GangaTWO {
+public class AAAAA {
 public static void main(String[] args) {
-	System.out.println("GangaTWO");
+	System.out.println("llll");
 }
 }
